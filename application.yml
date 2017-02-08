@@ -15,7 +15,7 @@ workshop:
   description: "This workshop will cover the ..."
   instructors: 
     - 
-      name: "Chris Decelles1"
+      name: "Chris Decelles"
       title: "Sr. Platform Architect"
       email: cdecelles@pivotal.io
       phone: "603.512.5616"
