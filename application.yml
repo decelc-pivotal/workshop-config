@@ -52,12 +52,21 @@ workshop:
   sessions:
     - 
       id: "day1"
-      name: "March 14"
+      name: "Agenda"
       description: "Content for March 14, 2017"
       topics:
       -
         id: "session1"
-        title: "Application Development"
+        title: "9:15 - 10:00 - Pivotal Overview - Trends/learnings from cloud native platforms/next generation architectures."
+      -
+        id: "session2"
+        title: "10:00 - 11:00 - Putnam to discuss current initiatives."
+      -
+        id: "session3"
+        title: "11:00 - 11:30 - Pivotal Labs overview."
+      -
+        id: "session4"
+        title: "11:30 - 12:15 - Pivotal Cloud Foundry Architecture"
       -
         id: "04-cli"
       -
@@ -67,7 +76,11 @@ workshop:
       -
         id: "10-application-manifest"
       -
-        id: "12-domains-and-routes"
+        id: "session5"
+        title: "12:15 - 1:00 - Lunch"
+      -
+        id: "session6"
+        title: "1:00 - 2:45 - Developer Agility"
       -
         id: "14-services"
       -
@@ -75,30 +88,15 @@ workshop:
       -
         id: "26-elastic-runtime"
       -
-        id: "40-high-availability"
+        id: "session7"
+        title: "2:45 - 3:00 - Break"
       -
-        id: "session1"
-        title: "Customization"
+        id: "session8"
+        title: "3:00 - 4:45 - Cloud Native Operations"
       -
         id: "56-cloud-controller-API"
       -
         id: "58-service-broker"
       -
-        id: "59-oauth-primer"
-      -
-        id: "60-security-and-sso"
-      -
-        id: "62-buildpacks"
-      -
-        id: "session3"
-        title: "Cloud Native Apps and Continuous Delivery"
-      -
-        id: "why-cloud-native-slides"
-      -
-        id: "cna-culture-changes-slides"
-      -
-        id: "66-continuous-delivery"
-      -
-        id: "68-cloud-native-design"
-      -
-        id: "70-microservices"
+        id: "session9"
+        title: "4:45 - 5:00 - Next Steps"
