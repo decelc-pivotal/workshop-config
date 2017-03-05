@@ -52,8 +52,8 @@ workshop:
   sessions:
     - 
       id: "day1"
-      name: "Day 1"
-      description: "Content for March, 14"
+      name: "March 14"
+      description: "Content for March 14, 2017"
       topics:
       -
         id: "session1"
@@ -102,37 +102,3 @@ workshop:
         id: "68-cloud-native-design"
       -
         id: "70-microservices"
-    - 
-      id: "day2"
-      name: "Day 2"
-      description: "Content for October, 26"
-      topics:
-      -
-        id: "springboot"
-        title: "Spring Boot"
-      -
-        id: "spring-boot-labs-setup"
-      -
-        id: "80-cs-spring-boot-basics"
-      -
-        id: "82-cs-spring-boot-adv"
-      -
-        id: "actuator"
-      -
-        id: "spring-data-rest"
-      -
-        id: "scs"
-        title: "Spring Cloud Services"
-      -
-        id: "scs-labs-setup"
-      -
-        id: "config"
-      -
-        id: "service-discovery"
-      -
-        id: "circuit-breakers"
-      -
-        id: "datamicroservices"
-        title: "Data Microservices"
-      -
-        id: "springcloud-dataflow"
