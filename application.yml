@@ -6,6 +6,7 @@ workshop:
   title: "Pivotal Cloud Foundry Workshop"
   date: "March 14, 2017"
   description: "This workshop will cover the ..."
+  customerLogo: "https://www.putnam.com/static/img/putnam-logo.svg"
   instructors: 
     - 
       name: "John Ferguson"
