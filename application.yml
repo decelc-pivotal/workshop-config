@@ -1,24 +1,16 @@
 --- 
 config: 
   name: cjdname
-foo: bar
-fortune: 
-  messages: 
-    - "People are naturally attracted to you."
-    - "You learn from your mistakes... You will learn a lot today."
-hello: world
-
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "October 25 & 26, 2016"
+  date: "March 14, 2017"
   description: "This workshop will cover the ..."
   instructors: 
     - 
-      name: "Chris Decelles"
-      title: "Sr. Platform Architect"
-      email: cdecelles@pivotal.io
-      phone: "603.512.5616"
+      name: "John Ferguson"
+      title: "Sr. Mgr Platform Architecture"
+      email: jferguson@pivotal.io
   resources:
     -
       title: "Pivotal Network"
