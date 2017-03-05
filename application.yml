@@ -52,7 +52,7 @@ workshop:
     - 
       id: "day1"
       name: "Day 1"
-      description: "Content for October, 25"
+      description: "Content for March, 14"
       topics:
       -
         id: "session1"
