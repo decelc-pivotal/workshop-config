@@ -60,10 +60,10 @@ workshop:
         title: "9:15 - 10:00 - Pivotal Overview - Trends/Learnings"
       -
         id: "session2"
-        title: "10:00 - 11:00 - Putnam to discuss current initiatives."
+        title: "10:00 - 11:00 - Putnam to discuss current initiatives"
       -
         id: "session3"
-        title: "11:00 - 11:30 - Pivotal Labs overview."
+        title: "11:00 - 11:30 - Pivotal Labs overview"
       -
         id: "session4"
         title: "11:30 - 12:15 - Pivotal Cloud Foundry Architecture"
