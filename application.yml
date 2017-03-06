@@ -68,13 +68,7 @@ workshop:
         id: "session4"
         title: "11:30 - 12:15 - Pivotal Cloud Foundry Architecture"
       -
-        id: "04-cli"
-      -
-        id: "08-deploy-simple-app"
-      -
-        id: "06-org-space-user-role"
-      -
-        id: "10-application-manifest"
+        id: "pcfd-intro"
       -
         id: "session5"
         title: "12:15 - 1:00 - Lunch"
@@ -84,8 +78,6 @@ workshop:
       -
         id: "14-services"
       -
-        id: "20a-opsmgr-and-bosh-short"
-      -
         id: "26-elastic-runtime"
       -
         id: "session7"
@@ -94,9 +86,9 @@ workshop:
         id: "session8"
         title: "3:00 - 4:45 - Cloud Native Operations"
       -
-        id: "56-cloud-controller-API"
+        id: "20a-opsmgr-and-bosh-short"
       -
-        id: "58-service-broker"
+        id: "pcfa-buildpack"
       -
         id: "session9"
         title: "4:45 - 5:00 - Next Steps"
