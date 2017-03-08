@@ -78,9 +78,11 @@ workshop:
         id: "session6"
         title: "1:00 - 2:45 - Developer Agility"
       -
-        id: "14-services"
+        id: "pcfd-microservices"
       -
-        id: "26-elastic-runtime"
+        id: "pcfd-services"
+      -
+        id: "pcfd-cd"        
       -
         id: "session7"
         title: "2:45 - 3:00 - Break"
