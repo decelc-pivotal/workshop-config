@@ -88,6 +88,8 @@ workshop:
       -
         id: "20a-opsmgr-and-bosh-short"
       -
+        id: "pcfa-bosh"
+      -
         id: "pcfa-buildpack"
       -
         id: "session9"
