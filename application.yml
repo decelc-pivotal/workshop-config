@@ -90,9 +90,11 @@ workshop:
         id: "session8"
         title: "3:00 - 4:45 - Cloud Native Operations"
       -
-        id: "20a-opsmgr-and-bosh-short"
+        id: "pcfa-ops"
       -
         id: "pcfa-bosh"
+      -
+        id: "pcfa-security"
       -
         id: "pcfa-buildpack"
       -
