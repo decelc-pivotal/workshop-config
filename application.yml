@@ -78,9 +78,9 @@ workshop:
         id: "session6"
         title: "1:00 - 2:45 - Developer Agility"
       -
-        id: "pcfd-microservices"
+        id: "pcfd-developer"
       -
-        id: "pcfd-services"
+        id: "pcfd-microservices"
       -
         id: "pcfd-cd"        
       -
