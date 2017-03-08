@@ -96,7 +96,5 @@ workshop:
       -
         id: "pcfa-security"
       -
-        id: "pcfa-buildpack"
-      -
         id: "session9"
         title: "4:45 - 5:00 - Next Steps"
