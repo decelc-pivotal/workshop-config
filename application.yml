@@ -4,7 +4,6 @@ config:
 foo: bar
 fortune: 
   messages: 
-    - "People are naturally attracted to you."
     - "You learn from your mistakes... You will learn a lot today."
 hello: world
 
@@ -91,8 +90,3 @@ workshop:
         id: "service-discovery"
       -
         id: "circuit-breakers"
-      -
-        id: "datamicroservices"
-        title: "Data Microservices"
-      -
-        id: "springcloud-dataflow"
