@@ -11,7 +11,7 @@ hello: world
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "TBD"
+  date: "May 24, 2017"
   description: "This workshop will cover the ..."
   customerLogo: "https://www.cvshealth.com/sites/default/themes/cvs/img/logo-cvs-health-hd.png"
   instructors: 
@@ -60,7 +60,7 @@ workshop:
   sessions:
     - 
       id: "day1"
-      name: "Day 1"
+      name: "May 24, 2017"
       description: "Content for Day 1"
       topics:
       -
