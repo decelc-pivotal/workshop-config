@@ -4,14 +4,14 @@ config:
 foo: bar
 fortune: 
   messages: 
-    - "People are naturally attracted to you."
+    - "People are willing drive far for ice cream."
     - "You learn from your mistakes... You will learn a lot today."
 hello: world
 
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "May 24, 2017"
+  date: "May 31 - June 1, 2017"
   description: "This workshop will cover the ..."
   customerLogo: "https://www.cvshealth.com/sites/default/themes/cvs/img/logo-cvs-health-hd.png"
   instructors: 
@@ -60,12 +60,66 @@ workshop:
   sessions:
     - 
       id: "day1"
-      name: "Agenda"
-      description: "Agenda Content"
+      name: "Day 1"
+      description: "Content for May, 31"
+      topics:
+      -
+        id: "session1"
+        title: "Application Development"
+      -
+        id: "04-cli"
+      -
+        id: "08-deploy-simple-app"
+      -
+        id: "06-org-space-user-role"
+      -
+        id: "10-application-manifest"
+      -
+        id: "12-domains-and-routes"
+      -
+        id: "14-services"
+      -
+        id: "20a-opsmgr-and-bosh-short"
+      -
+        id: "26-elastic-runtime"
+      -
+        id: "40-high-availability"
+      -
+        id: "session1"
+        title: "Customization"
+      -
+        id: "56-cloud-controller-API"
+      -
+        id: "58-service-broker"
+      -
+        id: "59-oauth-primer"
+      -
+        id: "60-security-and-sso"
+      -
+        id: "62-buildpacks"
+      -
+        id: "session3"
+        title: "Cloud Native Apps and Continuous Delivery"
+      -
+        id: "why-cloud-native-slides"
+      -
+        id: "cna-culture-changes-slides"
+      -
+        id: "66-continuous-delivery"
+      -
+        id: "68-cloud-native-design"
+      -
+        id: "70-microservices"
+    - 
+      id: "day2"
+      name: "Day 2"
+      description: "Content for June, 1"
       topics:
       -
         id: "springboot"
         title: "Spring Boot"
+      -
+        id: "spring-boot-labs-setup"
       -
         id: "80-cs-spring-boot-basics"
       -
@@ -78,8 +132,15 @@ workshop:
         id: "scs"
         title: "Spring Cloud Services"
       -
+        id: "scs-labs-setup"
+      -
         id: "config"
       -
         id: "service-discovery"
       -
         id: "circuit-breakers"
+      -
+        id: "datamicroservices"
+        title: "Data Microservices"
+      -
+        id: "springcloud-dataflow"
