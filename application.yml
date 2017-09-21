@@ -11,7 +11,7 @@ hello: world
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "July 11 and July 13, 2017"
+  date: "October 2 & 3, 2017"
   description: "This workshop will cover the ..."
   customerLogo: "https://www.cvshealth.com/sites/default/themes/cvs/img/logo-cvs-health-hd.png"
   instructors: 
@@ -19,7 +19,7 @@ workshop:
       name: "Chris Decelles"
       title: "Sr. Platform Architect"
       email: cdecelles@pivotal.io
-      phone: "555-555-5555"
+      phone: "603.512.5616"
   resources:
     -
       title: "Pivotal Network"
