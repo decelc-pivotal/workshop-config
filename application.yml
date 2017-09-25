@@ -61,7 +61,7 @@ workshop:
     - 
       id: "day1"
       name: "Day 1"
-      description: "Content for May, 31"
+      description: "Content for October, 2"
       topics:
       -
         id: "session1"
@@ -113,7 +113,7 @@ workshop:
     - 
       id: "day2"
       name: "Day 2"
-      description: "Content for June, 1"
+      description: "Content for October, 3"
       topics:
       -
         id: "springboot"
