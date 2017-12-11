@@ -11,7 +11,7 @@ hello: world
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "October 2 & 3, 2017"
+  date: "December 11 & 12, 2017"
   description: "This workshop will cover the ..."
   customerLogo: "https://www.cvshealth.com/sites/default/themes/cvs/img/logo-cvs-health-hd.png"
   instructors: 
